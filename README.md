@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/OpenLRM-colab/blob/main/OpenLRM_colab.ipynb) | OpenLRM_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/resemble-enhance-colab/blob/main/resemble_enhance_colab.ipynb) | resemble_enhance_colab
 
 ### 🧬 Code
 https://github.com/resemble-ai/resemble-enhance
