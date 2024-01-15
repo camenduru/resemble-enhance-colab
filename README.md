@@ -12,4 +12,6 @@
 https://github.com/resemble-ai/resemble-enhance
 
 ### 🖼 Output
-![Screenshot 2024-01-02 053736](https://github.com/camenduru/resemble-enhance-colab/assets/54370274/4bf4d809-6945-4a33-b1fe-4f8d82842927)
+
+https://github.com/camenduru/resemble-enhance-colab/assets/54370274/55a29c23-836c-4502-bef4-8ac2f774c863
+
